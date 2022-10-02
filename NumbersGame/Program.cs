@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Elias Hammou, NET22
+using System;
 
 namespace NumbersGame
 {
